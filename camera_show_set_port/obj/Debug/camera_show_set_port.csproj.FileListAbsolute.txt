@@ -1,0 +1,32 @@
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show_set_port\camera_show_set_port\bin\Debug\camera_show_set_port.exe.config
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show_set_port\camera_show_set_port\bin\Debug\camera_show_set_port.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show_set_port\camera_show_set_port\bin\Debug\camera_show_set_port.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show_set_port\camera_show_set_port\obj\Debug\camera_show_set_port.csprojResolveAssemblyReference.cache
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show_set_port\camera_show_set_port\obj\Debug\camera_show_set_port.Form1.resources
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show_set_port\camera_show_set_port\obj\Debug\camera_show_set_port.Properties.Resources.resources
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show_set_port\camera_show_set_port\obj\Debug\camera_show_set_port.csproj.GenerateResource.Cache
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show_set_port\camera_show_set_port\obj\Debug\camera_show_set_port.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show_set_port\camera_show_set_port\obj\Debug\camera_show_set_port.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show_set_port\camera_show_set_port\obj\Debug\camera_show_set_port.Form2_manual.resources
+C:\Users\DENALI FCT_3\Desktop\camera_show_set_port\camera_show_set_port\bin\Debug\camera_show_set_port.exe.config
+C:\Users\DENALI FCT_3\Desktop\camera_show_set_port\camera_show_set_port\bin\Debug\camera_show_set_port.exe
+C:\Users\DENALI FCT_3\Desktop\camera_show_set_port\camera_show_set_port\bin\Debug\camera_show_set_port.pdb
+C:\Users\DENALI FCT_3\Desktop\camera_show_set_port\camera_show_set_port\obj\Debug\camera_show_set_port.csprojAssemblyReference.cache
+C:\Users\DENALI FCT_3\Desktop\camera_show_set_port\camera_show_set_port\obj\Debug\camera_show_set_port.Form1.resources
+C:\Users\DENALI FCT_3\Desktop\camera_show_set_port\camera_show_set_port\obj\Debug\camera_show_set_port.Form2_manual.resources
+C:\Users\DENALI FCT_3\Desktop\camera_show_set_port\camera_show_set_port\obj\Debug\camera_show_set_port.Properties.Resources.resources
+C:\Users\DENALI FCT_3\Desktop\camera_show_set_port\camera_show_set_port\obj\Debug\camera_show_set_port.csproj.GenerateResource.cache
+C:\Users\DENALI FCT_3\Desktop\camera_show_set_port\camera_show_set_port\obj\Debug\camera_show_set_port.csproj.CoreCompileInputs.cache
+C:\Users\DENALI FCT_3\Desktop\camera_show_set_port\camera_show_set_port\obj\Debug\camera_show_set_port.csproj.CopyComplete
+C:\Users\DENALI FCT_3\Desktop\camera_show_set_port\camera_show_set_port\obj\Debug\camera_show_set_port.exe
+C:\Users\DENALI FCT_3\Desktop\camera_show_set_port\camera_show_set_port\obj\Debug\camera_show_set_port.pdb
+D:\SvnServer\Projects C#\mini_projeck_template\camera_show_set_port\camera_show_set_port\bin\Debug\camera_show_set_port.exe.config
+D:\SvnServer\Projects C#\mini_projeck_template\camera_show_set_port\camera_show_set_port\obj\Debug\camera_show_set_port.exe
+D:\SvnServer\Projects C#\mini_projeck_template\camera_show_set_port\camera_show_set_port\obj\Debug\camera_show_set_port.pdb
+D:\SvnServer\Projects C#\mini_projeck_template\camera_show_set_port\camera_show_set_port\bin\Debug\camera_show_set_port.exe
+D:\SvnServer\Projects C#\mini_projeck_template\camera_show_set_port\camera_show_set_port\bin\Debug\camera_show_set_port.pdb
+D:\SvnServer\Projects C#\mini_projeck_template\camera_show_set_port\camera_show_set_port\obj\Debug\camera_show_set_port.csprojResolveAssemblyReference.cache
+D:\SvnServer\Projects C#\mini_projeck_template\camera_show_set_port\camera_show_set_port\obj\Debug\camera_show_set_port.Form1.resources
+D:\SvnServer\Projects C#\mini_projeck_template\camera_show_set_port\camera_show_set_port\obj\Debug\camera_show_set_port.Form2_manual.resources
+D:\SvnServer\Projects C#\mini_projeck_template\camera_show_set_port\camera_show_set_port\obj\Debug\camera_show_set_port.Properties.Resources.resources
+D:\SvnServer\Projects C#\mini_projeck_template\camera_show_set_port\camera_show_set_port\obj\Debug\camera_show_set_port.csproj.GenerateResource.Cache
